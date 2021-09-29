@@ -24,7 +24,14 @@
 
 // UE4; Pixel 2d Engine Plugin; 001 Engine; SpriteStack; ArticyDraft
 
-
+- 🔭 I’m currently working on WASD Test
+- 🌱 I’m currently learning Articy Draft, Unreal Engine (Pixel 2D Engine plugin), C and C++
+- 👯 I’m looking to collaborate on C++ open projects
+- 🤔 I’m looking for help with C and C++
+- 💬 Ask me about Karate, Star Trek
+- 📫 How to reach me: instagram, twitter
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Fallout 2 > all
 
 
 <!--
